@@ -2,6 +2,13 @@
 # yarn lockfile v1
 
 
+"@angular-builders/custom-webpack@7":
+  version "7.5.2"
+  resolved "https://registry.yarnpkg.com/@angular-builders/custom-webpack/-/custom-webpack-7.5.2.tgz#de475d211bbb2838cbdee5744432f2eaaab787b0"
+  integrity sha512-QvH/4cr8RYC7+A67/ASCoizrFdnMDhs05ZZ+3wrkWlj+nbKI9eKTJIdfBsDm0qP+zEx1d9Hr6oz6CXNNwuMA9g==
+  dependencies:
+    lodash "^4.17.10"
+
 "@angular-devkit/architect@0.13.10":
   version "0.13.10"
   resolved "https://registry.yarnpkg.com/@angular-devkit/architect/-/architect-0.13.10.tgz#947d3f588e15cc2df3736ff841977a74832a9db7"
